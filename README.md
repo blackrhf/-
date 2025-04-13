@@ -1,4 +1,4 @@
-# -
+# Three layer neural network
 手工搭建三层神经网络分类器，在数据集 CIFAR-10 上进行训练以实现图像分类。
 
 自主实现反向传播，没有使用 pytorch，tensorflow 等现成的支持自动微分的深度学习框架
